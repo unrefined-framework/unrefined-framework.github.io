@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://unrefined-framework.github.io/blog</id>
+    <title>Unrefined Blog</title>
+    <updated>2024-03-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://unrefined-framework.github.io/blog"/>
+    <subtitle>Unrefined Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://unrefined-framework.github.io/blog/first-blog-post</id>
+        <link href="https://unrefined-framework.github.io/blog/first-blog-post"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Karstian Lee</name>
+            <uri>https://github.com/Tianscar</uri>
+        </author>
+    </entry>
+</feed>
